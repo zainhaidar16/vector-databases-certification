@@ -1,0 +1,27 @@
+# Vector Databases Certification
+
+This repository contains various projects and demonstrations related to vector databases and machine learning vectors. The projects are organized into different directories, each focusing on a specific aspect of vector databases and their applications.
+
+## Directory Structure
+
+- **01 Introduction to Vector Databases**: Basic concepts and introduction to vector databases.
+- **02 Vector Database Setup**: Instructions and scripts for setting up vector databases.
+- **03 Machine Learning Vectors**: Projects and demonstrations related to machine learning vectors.
+- **04 Scalability**: Performance and scalability tests for vector databases.
+- **05 Demonstration and Use Cases**: Real-world use cases and demonstrations of vector databases.
+
+## Getting Started
+
+
+### Prerequisites
+
+- Docker
+- Docker Compose
+
+### Setup
+
+1. **Clone the Repository**:
+
+   ```sh
+   git clone https://github.com/yourusername/vector-databases-certification.git
+   cd vector-databases-certification

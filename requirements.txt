@@ -1,0 +1,7 @@
+weaviate-client
+numpy
+pandas
+scikit-learn
+matplotlib
+jupyter
+requests
