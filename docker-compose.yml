@@ -20,5 +20,5 @@ services:
       PERSISTENCE_DATA_PATH: '/var/lib/weaviate'
       DEFAULT_VECTORIZER_MODULE: 'text2vec-cohere'
       ENABLE_MODULES: 'text2vec-cohere,generative-cohere'
-      COHERE_APIKEY: sk-foobar # this parameter is optional, as you can also provide it through the client
+      COHERE_APIKEY: '0JxioZuNIAyRWBqsNLBOrTHs9aZsfuioEbdauroh' # this parameter is optional, as you can also provide it through the client
       CLUSTER_HOSTNAME: 'node1'
